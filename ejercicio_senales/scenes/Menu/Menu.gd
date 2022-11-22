@@ -11,9 +11,3 @@ func _ready():
 	pass
 
 
-func _on_RedGenerator_button_down():
-	pass
-
-
-func _on_VioletGenerator_button_down():
-	pass
